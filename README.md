@@ -1,9 +1,7 @@
 # Airplane-Crash-Analysis
----
 ![airplane crash](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/d79280dc-0876-4d0a-afcb-658ecc9e3fb9)
 
 ## Project Objective
----
 The goal of this project is to leverage Power BI for interactive visualizations and in-depth insights to understand patterns, contributing factors and trends in aviation incidents. The analysis aims to provide stakeholders with valuable information for enhancing avaiation safety and mitigating risks.
 
 ## Data Source
@@ -12,7 +10,6 @@ The date used for this analysis is the 'Airplane Crashes Analysis.csv' dataset.
 
 
 ## Problem Statement
----
 1. Temporal Analysis
    - Explore temporal trends in airplane crashes over the years.
    - Identify patterns in the frequency and severity of incidents.
@@ -33,6 +30,7 @@ The date used for this analysis is the 'Airplane Crashes Analysis.csv' dataset.
     - Identify routes with a higher likelihood of incidents.
       
 ## Deliverables
+
 The report entails two pages:
 
 **1. Report on operator Performance, aircraft involvement and fatality traits**
@@ -46,7 +44,6 @@ The report entails two pages:
 You can interact with the report [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 ## Visualization Analysis
-
 1. The overall analysis portrays crew analysis to be higher compared to passenger analysis. This could be because the crew’s actions, decisions and overall performance are critical in preventing or causing incidents. Their focus is always at the safety of the passenger.
 
     ![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/a06f0513-75c9-485c-ad07-81edd233fc0e)
