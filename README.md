@@ -94,6 +94,18 @@ Poor weather conditions affecting visibility.
 
   😆  ✈️  🗺️
 
+## Recommandations
+The below recommendations would aid in increasing aviation safety.
+- Enhanced training for pilots and crew members to improve on their decision making skills.
+- Improve maintenance procedures through regular checks.
+- Improve safety on high-risk areas like military routes.
+- Apply Advanced technology like collision avoidance systems.
+- Enforce strict regulation and compliance standards for aircrafts.
+- Enhance communication, between air traffic control, pilot and crew members to ensure timely updates during a bad weather.
+- Enhance security screening like explosive detection systems.
+
+
+
 
 
 
