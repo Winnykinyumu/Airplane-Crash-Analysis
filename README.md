@@ -92,7 +92,7 @@ Poor weather conditions affecting visibility.
 - Geographic and environmental conditions, extreme weather conditions as seen in regions like Canada.
 - Aircraft registration and compliance status. Unregistered aircrafts presents higher cases due to lack of regulatory oversight.
 
-  😆  ✈️  🗺️
+  💢 ✈️  🗺️
 
 ## Recommandations
 The below recommendations would aid in increasing aviation safety.
@@ -103,6 +103,10 @@ The below recommendations would aid in increasing aviation safety.
 - Enforce strict regulation and compliance standards for aircrafts.
 - Enhance communication, between air traffic control, pilot and crew members to ensure timely updates during a bad weather.
 - Enhance security screening like explosive detection systems.
+
+
+   ![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/d6790f1e-17fe-4bbd-b3e3-3f28cf997aa0)
+
 
 
 
