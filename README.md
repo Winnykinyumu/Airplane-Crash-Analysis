@@ -8,6 +8,8 @@ The goal of this project is to leverage Power BI for interactive visualizations 
 
 ## Data Source
 
+The date used for this analysis is the 'Airplane Crashes Analysis.csv' dataset.
+
 
 ## Problem Statement
 ---
