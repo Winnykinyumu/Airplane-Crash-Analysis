@@ -26,6 +26,19 @@ The goal of this project is to leverage Power BI for interactive visualizations 
 6. Route Analysis
     - Analyse incident patterns on specific flight routes.
     - Identify routes with a higher likelihood of incidents.
+      
+## Deliverables
+The report entails two pages:
+
+**1. Report on operator Performance, aircraft involvement and fatality traits**
+
+![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/3d3cdac3-3915-4477-b7f2-49eca34ba08c)
+
+**2. Dashboard For temporal, geospatial and operational analysis**
+
+![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/b4479be8-1d89-4ee1-9458-4a93c0222431)
+
+You can interact with the report [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 
 
