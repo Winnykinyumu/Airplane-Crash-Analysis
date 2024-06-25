@@ -45,7 +45,7 @@ The report entails two pages:
 
 You can interact with the report [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
-## Visulaization Analysis
+## Visualization Analysis
 
 1. The overall analysis portrays crew analysis to be higher compared to passenger analysis. This could be because the crew’s actions, decisions and overall performance are critical in preventing or causing incidents. Their focus is always at the safety of the passenger.
 
@@ -69,8 +69,14 @@ You can interact with the report [here](https://www.microsoft.com/en-us/power-pl
 5. According to the operator analysis, military operators presented to have the highest recording of plane crash incidents. This is highly correlated to the fact that the training route     also presented the high record of crash incidents. Military usually engage in high risk missions and tactical training exercises. These operations are riskier than commercial or          general aviation flights.
 
    ![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/9fd17d9e-ad46-4efe-8443-ec9f67fad94f)
-   
-6. 
+
+6.  Lastly, there is a high relationship between aircraft registration and crash occurrences. Aircrafts which were not registered presented to have more cases of incidents compared to flights which were registered. This could be attached to several reason:
+   - Registered aircrafts are subject to safety regulations and compliance guidelines unlike unregistered aircrafts which may not undergo the same level of scrutiny, increasing the likelihood of undetected issues.
+   - Pilots of registered aircrafts are typically required to have valid licenses for operation to ensure they maintain the necessary competency standards. Unregistered aircrafts may be operated by pilots without proper certification increasing the risk of human error.
+
+      ![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/12934d1d-1fd6-4dc9-949f-41fd9d2f0a31)
+
+
 
 
 
