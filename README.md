@@ -76,6 +76,26 @@ You can interact with the report [here](https://www.microsoft.com/en-us/power-pl
 
       ![image](https://github.com/Winnykinyumu/Airplane-Crash-Analysis/assets/124139386/12934d1d-1fd6-4dc9-949f-41fd9d2f0a31)
 
+## Insights into potential risk factors 
+The dataset entailed a summary section detailing factors that could have led to the crash cases for each incident. Below is a summarized report of the some of the potential risk factors;
+Poor weather conditions affecting visibility.
+- Pilot error e.g. misjudging altitude.
+- Terrain obstruction i.e. collision with obstacles, trees , power line.
+- Fire: In-flight fire caused by mechanical issues.
+- Mechanical issues like engine failure.
+- Unknown reasons
+- Sabotage, issues of explosions and bombing.
+
+## Risk factors based on the Analysis
+- Crew performance and training , inadequate training for both pilots and crew members.
+- Route and operation type, specific routes such as military because of the nature of their operations, involve high risk maneuvers.
+- Geographic and environmental conditions, extreme weather conditions as seen in regions like Canada.
+- Aircraft registration and compliance status. Unregistered aircrafts presents higher cases due to lack of regulatory oversight.
+
+  😆  ✈️  🗺️
+
+
+
 
 
 
