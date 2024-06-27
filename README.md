@@ -8,6 +8,14 @@ The goal of this project is to leverage Power BI for interactive visualizations 
 
 The date used for this analysis is the 'Airplane Crashes Analysis.csv' dataset.
 
+## Skills Demonstrated
+
+- Dax
+- Quick measures
+- Power query for data cleaning.
+- Data Type Casting: Updated the date data type
+  
+
 
 ## Problem Statement
 1. Temporal Analysis
